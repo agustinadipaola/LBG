@@ -1,1 +1,6 @@
  /Logs/
+.*        
+# Every giles that starts with a dot
+
+!.getignore  
+# Exclude .getignore from that (we want .getignore)  
